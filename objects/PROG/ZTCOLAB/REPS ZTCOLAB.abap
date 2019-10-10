@@ -6,6 +6,5 @@
 report ztcolab.
 
 
-
 data(result) = ztcolab=>execute( ).
 write: / |{ result-key } { result-value }|.
